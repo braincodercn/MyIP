@@ -5,5 +5,5 @@ do
     git add -A :/
     git commit -m "update"
     git push
-    sleep 1s
+    sleep 1h
 done
