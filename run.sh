@@ -2,7 +2,8 @@
 while true
 do
     curl ip.cn > ip.txt
-    sleep 1h
     git add -A :/
-    git commmit
+    git commit -m "update"
+    git push
+    sleep 1s
 done
