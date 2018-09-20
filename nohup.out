@@ -2243,3 +2243,10 @@ and the repository exists.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    60    0    60    0     0    160      0 --:--:-- --:--:-- --:--:--   160100    60    0    60    0     0    160      0 --:--:-- --:--:-- --:--:--   160
+[master 00fb4a8] update
+ 2 files changed, 11 insertions(+)
+To github.com:braincodercn/MyIP.git
+   1a773e9..00fb4a8  master -> master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    60    0    60    0     0    102      0 --:--:-- --:--:-- --:--:--   102100    60    0    60    0     0    102      0 --:--:-- --:--:-- --:--:--   102
