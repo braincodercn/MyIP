@@ -2362,3 +2362,11 @@ To github.com:braincodercn/MyIP.git
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    50    0    50    0     0     42      0 --:--:--  0:00:01 --:--:--    42100    50    0    50    0     0     42      0 --:--:--  0:00:01 --:--:--    42
+[master 70f8e0c] update
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+packet_write_wait: Connection to 192.30.255.112 port 22: Broken pipe
+fatal: The remote end hung up unexpectedly
+fatal: The remote end hung up unexpectedly
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    51    0    51    0     0     45      0 --:--:--  0:00:01 --:--:--    45
