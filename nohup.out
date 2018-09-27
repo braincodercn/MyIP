@@ -3571,3 +3571,11 @@ To github.com:braincodercn/MyIP.git
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100    51    0    51    0     0     22      0 --:--:--  0:00:02 --:--:--    22
+[master 10a124c] update
+ 2 files changed, 9 insertions(+), 112 deletions(-)
+ rewrite ip.txt (100%)
+To github.com:braincodercn/MyIP.git
+   98867be..10a124c  master -> master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100    50    0    50    0     0     22      0 --:--:--  0:00:02 --:--:--    22100    50    0    50    0     0     22      0 --:--:--  0:00:02 --:--:--    22
