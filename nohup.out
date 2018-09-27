@@ -3563,3 +3563,11 @@ To github.com:braincodercn/MyIP.git
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  4870    0  4870    0     0   3914      0 --:--:--  0:00:01 --:--:--  3914
+[master 98867be] update
+ 2 files changed, 119 insertions(+), 1 deletion(-)
+ rewrite ip.txt (100%)
+To github.com:braincodercn/MyIP.git
+   ceb52e4..98867be  master -> master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100    51    0    51    0     0     22      0 --:--:--  0:00:02 --:--:--    22
