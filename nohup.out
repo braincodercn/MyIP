@@ -4014,3 +4014,13 @@ and the repository exists.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100    43    0    43    0     0     22      0 --:--:--  0:00:01 --:--:--    22
+[master 62e7af0] update
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+ERROR: Permission to braincodercn/MyIP.git denied to zhmz90.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100    43    0    43    0     0     18      0 --:--:--  0:00:02 --:--:--    18100    43    0    43    0     0     18      0 --:--:--  0:00:02 --:--:--    18
